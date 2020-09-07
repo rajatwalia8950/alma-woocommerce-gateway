@@ -1,4 +1,4 @@
-=== Alma Monthly Payments for WooCommerce ===ghjgjhghj
+=== Alma Monthly Payments for WooCommerce ===ghjgjhghjghjgjh
 Contributors: almapayments, olance
 Tags: payments, payment gateway, woocommerce, ecommerce, e-commerce, sell, woo commerce, alma, monthly payments, split payments
 Requires at least: 4.4
